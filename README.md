@@ -1,5 +1,8 @@
 #  Caladea Changelog
-    -   1.0.1.7.2 9/12/2018
+    - 1.0.1.7.3 12/11/2018
+        * Bug Fixing on WhatsApp Me Button Link
+        * Bug FIxing on Caladea Salespop
+    -   1.0.1.7.2 12/11/2018
         *   Kirim email ke CS yang terotasi
     -   1.0.1.7 9/11/2018
         *   Tampilkan pilihan Reg,Eco,YES untuk JNE di Processor
